@@ -19,7 +19,7 @@ dependencies {
 }
 
 task initProject(description: 'Initialize project directory structure.')  {
-    def defaultPackage = 'com/mrhaki/blog'
+    def defaultPackage = 'com/roofimon'
 
     ['java', 'groovy', 'resources'].each { String dir ->
         sourceSets*."$dir".srcDirs*.each { dir1 ->
