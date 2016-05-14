@@ -1,4 +1,4 @@
-package com.mrhaki.blog
+package com.sprint3r.blog
 
 import spock.lang.Specification
 

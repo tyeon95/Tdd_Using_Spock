@@ -1,4 +1,4 @@
-package com.mrhaki.blog;
+package com.sprint3r.blog;
 
 /**
  * Created by roof on 11/11/15.
